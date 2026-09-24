@@ -1,0 +1,13 @@
+# Personal viva notes. Not a submission deliverable.
+VIVA_PREP.md
+
+# Generated Python files
+__pycache__/
+*.py[cod]
+
+# Local machine junk
+.DS_Store
+*.log
+.venv/
+venv/
+.env
